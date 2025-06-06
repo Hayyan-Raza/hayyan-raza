@@ -44,9 +44,9 @@ I have screenshots, output flows, and demos from many projects.
 ---
 
 ## 📫 Contact
-- Email: your-email@example.com
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com)
-- Instagram: [@codewithhayyan](https://instagram.com/codewithhayyan)
+- Email: hayyanraza15916@gmail.com
+- LinkedIn: [My Linkedin](https://www.linkedin.com/in/hayyangamedev/)
+- Instagram: [@hayyan._.raza](https://instagram.com/hayyan._.raza)
 
 # 👋 Hayyan Raza – Automation & Game Developer
 
@@ -95,6 +95,6 @@ I have screenshots, output flows, and demos from many projects.
 
 ## 📫 Contact
 - Email: hayyanraza15916@gmail.com
-- LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/hayyangamedev/)
-- Instagram: [@codewithhayyan](https://instagram.com/hayyan._.raza)
+- LinkedIn: [My Linkedin](https://www.linkedin.com/in/hayyangamedev/)
+- Instagram: [@hayyan._.raza](https://instagram.com/hayyan._.raza)
 
